@@ -1,27 +1,27 @@
-Microprocessador o que é?
+## Microprocessador o que é?
 
-Microcontrolador o que é?
+## Microcontrolador o que é?
 
-Diferenças entre microcontrolador e microprocessador
+## Diferenças entre microcontrolador e microprocessador.
 
-Componentes do micro controlador e do microprocessador
+## Componentes do micro controlador e do microprocessador.
 
-Tipos de memória
+## Tipos de memória.
 
-Comunicação serial
+## Comunicação serial.
 
-Comunicação paralela
+## Comunicação paralela.
 
-Interrupções
+## Interrupções.
 
-Protocolos de comunicação (i2c, SPI, UART)
+## Protocolos de comunicação (i2c, SPI, UART).
 
-Timers e counters
+## Timers e counters.
 
-Von-Neumann e Harvard
+## Von-Neumann e Harvard.
 
-RISC e CISC
+## RISC e CISC.
 
-Prescaler
+## Prescaler.
 
-Watchdog
+## Watchdog.
