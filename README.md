@@ -30,6 +30,8 @@ Frase para o final da prova: "Je suis un développeur, pas un ingénieur électr
 
 ## Interrupções.
 
+Quando um evento (ex: apertar um botão) é enviado a unidade de processamento, esse evento é chamado de 'Interrupt'
+
 ## Protocolos de comunicação (i2c, SPI, UART).
 
 ## Timers e counters.
