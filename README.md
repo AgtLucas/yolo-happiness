@@ -40,4 +40,6 @@ Frase para o final da prova: "Je suis un développeur, pas un ingénieur électr
 
 ## Prescaler.
 
+* Circuito eletrônico de contagem usado para reduzir um sinal elétrico de alta frequência para uma frequencia mais baixa por uma divisão de um inteiro;
+
 ## Watchdog.
