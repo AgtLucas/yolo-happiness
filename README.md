@@ -1,3 +1,5 @@
+Frase para o final da prova: "Je suis un développeur, pas un ingénieur électricien."
+
 ## Microprocessador o que é?
 
 * MPU;
