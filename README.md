@@ -26,7 +26,17 @@ Frase para o final da prova: "Je suis un développeur, pas un ingénieur électr
 
 ## Comunicação serial.
 
+É o processo de enviar dados um bit de cada vez, sequencialmente, num canal de comunicação ou barramento. É usada em toda comunicação de longo alcance e na maioria das redes de computadores. Exemplos: Ethernet, Serial ATA
+
 ## Comunicação paralela.
+
+É o processo de enviar dados em que todos os bits de um símbolo são enviados juntos. A comunicação paralela implica mais de um fio, além da conexão de alimentação. Exemplos: ATA, ISA
+
+## Comunicação serial x Comunicação paralela.
+
+A diferença entre os dois é a quantidade de fios distintos na camada física usados para a transmissão simultânea dos dados a partir de um dispositivo.
+
+
 
 ## Interrupções.
 
