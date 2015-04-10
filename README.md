@@ -34,7 +34,9 @@ Frase para o final da prova: "Je suis un développeur, pas un ingénieur électr
 
 ## Timers e counters.
 
-## Von-Neumann e Harvard.
+## Von Neumann e Harvard.
+
+* A principal diferença entre as duas arquiteturas apresentadas aqui é que a arquitetura de Harvard separa o armazenamento e o trafego das instruções da CPU e dos dados em duas unidades distintas de memória, enquanto a Von Neumann utiliza o mesmo espaço de memória para ambos. Nos CPUs atuais, é mais comum encontrar a arquitetura Von Neunmann, por ser uma arquitetura mais simples, mas devido a necessidade de se almentar o desempenho, algumas características  da arquitetura Harvard também são encontradas.
 
 ## RISC e CISC.
 
