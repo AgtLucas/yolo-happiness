@@ -45,3 +45,5 @@ Frase para o final da prova: "Je suis un développeur, pas un ingénieur électr
 * Circuito eletrônico de contagem usado para reduzir um sinal elétrico de alta frequência para uma frequencia mais baixa por uma divisão de um inteiro;
 
 ## Watchdog.
+
+Um watchdog timer é um dispositivo eletrônico temporizador que dispara um reset ao sistema se o programa principal, devido a alguma condição de erro, deixar de fazer reset no watchdog timer. Trata-se de um sistema emergencial. Quando ativado, precisamos zerar o Watchdog, caso contrário, ele vai estourar e resetar o sistema.
