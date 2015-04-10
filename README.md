@@ -34,6 +34,16 @@ Frase para o final da prova: "Je suis un développeur, pas un ingénieur électr
 
 ## Timers e counters.
 
+# Timers
+
+A frequência do oscilador é definido com precisão e muito estável, que gera os impulsos estão sempre com a mesma largura, o que os torna ideal para a medição de tempo.
+
+# Counters
+
+Os pulsos de entrada se transforma em um contador, desta forma, ela não pode ser usado para medição de tempo, mas pode ser usado por exemplo para contar o número de rotação de um eixo.
+
+A diferença do contador, os pulsos passam a ser contados a partir das portas e a sua duração (width) na maioria das vezes não está definido.
+
 ## Von Neumann e Harvard.
 
 * A principal diferença entre as duas arquiteturas apresentadas aqui é que a arquitetura de Harvard separa o armazenamento e o trafego das instruções da CPU e dos dados em duas unidades distintas de memória, enquanto a Von Neumann utiliza o mesmo espaço de memória para ambos. Nos CPUs atuais, é mais comum encontrar a arquitetura Von Neunmann, por ser uma arquitetura mais simples, mas devido a necessidade de se almentar o desempenho, algumas características  da arquitetura Harvard também são encontradas.
