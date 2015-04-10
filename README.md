@@ -95,6 +95,18 @@ Quando um evento (ex: apertar um botão) é enviado a unidade de processamento, 
     * E o outro é usado para sincronização (clock signal);
 
 * SPI = Serial Periphereal Interface Bus
+ * Sistema para comunicação serial que usa até 4 condutores (normalmente 3);
+  * 1 para receber dados;
+  * 1 para envio de dados;
+  * 1 para sincronizar;
+  * 1 (alternativo) para seleção do device para comunicação;
+ * Full duplex, ou seja, envio e recebimento de data simultâneo;
+ * Baud rate maior que o I2C;
+
+* UART = Universal Asynchronous Receiver / Transmiter - UART
+ * Conexão asíncrona;
+ * Linha especial para transmissão de sinal de clock não é usada;
+ * Crucial em algumas situações, como: conexão de rádio ou controles infravermelho;
 
 ## Timers e counters.
 
