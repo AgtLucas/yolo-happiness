@@ -4,6 +4,10 @@ Frase para o final da prova: "Je suis un développeur, pas un ingénieur électr
 
 * VDD / (2^n) - 1;
 
+## Resistor
+
+* R = V / I
+
 ## Microprocessador o que é?
 
 * MPU;
