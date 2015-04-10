@@ -46,11 +46,11 @@ Quando um evento (ex: apertar um botão) é enviado a unidade de processamento, 
 
 ## Timers e counters.
 
-# Timers
+### Timers
 
 A frequência do oscilador é definido com precisão e muito estável, que gera os impulsos estão sempre com a mesma largura, o que os torna ideal para a medição de tempo.
 
-# Counters
+### Counters
 
 Os pulsos de entrada se transforma em um contador, desta forma, ela não pode ser usado para medição de tempo, mas pode ser usado por exemplo para contar o número de rotação de um eixo.
 
@@ -69,3 +69,19 @@ A diferença do contador, os pulsos passam a ser contados a partir das portas e 
 ## Watchdog.
 
 Um watchdog timer é um dispositivo eletrônico temporizador que dispara um reset ao sistema se o programa principal, devido a alguma condição de erro, deixar de fazer reset no watchdog timer. Trata-se de um sistema emergencial. Quando ativado, precisamos zerar o Watchdog, caso contrário, ele vai estourar e resetar o sistema.
+
+## Registradores
+
+### PORTA e PORTB
+
+Estes registradores contêm o estado atual dos “port’s” de I/O. Para um exemplo de um LED:
+
+0 = Led apagado
+1 = Led acesso
+
+### TRISA e TRISB
+
+Estes registradores permitem configurar os pinos de I/O como entrada ou saída. Onde:
+
+0 = Saída
+1 = Entrada
