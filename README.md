@@ -6,6 +6,7 @@ Frase para o final da prova: "Je suis un développeur, pas un ingénieur électr
 * Multitarefa;
 * Núcleo = UCP;
 * Processamento alto;
+* Tomadas de decisão;
 
 ## Microcontrolador o que é?
 
