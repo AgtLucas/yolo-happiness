@@ -1,5 +1,9 @@
 Frase para o final da prova: "Je suis un développeur, pas un ingénieur électricien."
 
+## Clock?
+
+* VDD / (2^n) - 1;
+
 ## Microprocessador o que é?
 
 * MPU;
