@@ -17,7 +17,7 @@
 
 ## Diferenças entre microcontrolador e microprocessador.
 
-## Componentes do micro controlador e do microprocessador.
+## Componentes do microcontrolador e do microprocessador.
 
 ## Tipos de memória.
 
