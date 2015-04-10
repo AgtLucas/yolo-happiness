@@ -44,6 +44,14 @@ Quando um evento (ex: apertar um botão) é enviado a unidade de processamento, 
 
 ## Protocolos de comunicação (i2c, SPI, UART).
 
+* I2C = Inter Integrated Circuit;
+  * Usado quando a distância entre os microcontroladores é curta;
+  * Novas gerações de circuitos integrados;
+  * Receptor e transmissor normalmente estão no mesmo PCB;
+  * Conexão é estabilizada através de 2 condutores;
+    * Um é usado pra transferir os dados;
+    * E o outro é usado para sincronização (clock signal);
+
 ## Timers e counters.
 
 ### Timers
