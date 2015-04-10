@@ -52,6 +52,8 @@ Quando um evento (ex: apertar um botão) é enviado a unidade de processamento, 
     * Um é usado pra transferir os dados;
     * E o outro é usado para sincronização (clock signal);
 
+* SPI = Serial Periphereal Interface Bus
+
 ## Timers e counters.
 
 ### Timers
@@ -73,6 +75,7 @@ A diferença do contador, os pulsos passam a ser contados a partir das portas e 
 ## Prescaler.
 
 * Circuito eletrônico de contagem usado para reduzir um sinal elétrico de alta frequência para uma frequencia mais baixa por uma divisão de um inteiro;
+* N x (B - A);
 
 ## Watchdog.
 
