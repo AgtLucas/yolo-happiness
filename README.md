@@ -137,3 +137,11 @@ Estes registradores permitem configurar os pinos de I/O como entrada ou saída. 
 
 0 = Saída
 1 = Entrada
+
+---
+
+## Barramentos
+
+* 2 bus;
+ * Uma pra dados e outro pra memória;
+* Dados como o próprio nome diz, é usado pra transmitir dados. Barramento de memória é usado enderaçamento de memória e cpu;
