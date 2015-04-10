@@ -1,5 +1,10 @@
 ## Microprocessador o que é?
 
+* MPU;
+* Multitarefa;
+* Núcleo = UCP;
+* Processamento alto;
+
 ## Microcontrolador o que é?
 
 ## Diferenças entre microcontrolador e microprocessador.
